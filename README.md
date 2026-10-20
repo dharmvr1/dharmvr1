@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Dharm SIngh</h1>
-<h3 align="center">I'm a software developer who enjoys working on Web3, blockchain, and low-level systems.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharmvr1&label=Profile%20views&color=0e75b6&style=flat" alt="dharmvr1" /> </p>
 
-- 🌱 I’m currently learning **Rust Compiler , Rust Internals**
+- 🌱 Student at IIT Roorkee. I'm interested in how LLMs work on the inside: transformers, training and post-training (SFT, RL), and why models fail the way they do.
 
 - 📫 How to reach me **dharmhsing@gmail.com**
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
